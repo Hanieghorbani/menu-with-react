@@ -143,11 +143,11 @@ Variables
   */
   
   .menu {
-    padding: 5rem 0;
+    padding: 2rem 0;
   }
   .title {
     text-align: center;
-    margin-bottom: 2rem;
+    /* margin-bottom: 2rem; */
   }
   .underline {
     width: 5rem;
